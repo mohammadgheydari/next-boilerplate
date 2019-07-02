@@ -6,7 +6,8 @@ function Home() {
         <img className="user-photo" src="/static/man.png" alt="my image" />
       
         <style jsx>{`
-        div {
+        h2 {
+            display:flex;
             color:${variables.black};
         }
      `}</style>
