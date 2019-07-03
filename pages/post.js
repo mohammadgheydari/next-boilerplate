@@ -1,6 +1,4 @@
 const Post = props => (
-    <div>
-        <h1>{props.url.query.title}</h1>
-    </div>
+    <div>{props.url.query.title}</div>
 )
 export default Post;
