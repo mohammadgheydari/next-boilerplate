@@ -1,13 +1,12 @@
 import { createMuiTheme } from '@material-ui/core/styles';
-
+import purple from '@material-ui/core/colors/deepPurple'
 export default createMuiTheme({
   direction: "rtl",
   palette: {
     primary: { 
-      light: '#00446A',
-      main: '#00446A',
-      // main: purple[500],
-      dark: '#00446A',
+      light: purple[500],
+      main: purple[500],
+      dark: purple[700],
     },
     secondary: {
       light: '#EF4044',
@@ -20,4 +19,5 @@ export default createMuiTheme({
     fontFamily: 'iransans',
   },
 });
+
 

@@ -1,15 +1,15 @@
 export default {
     bgColor: '#eee',
     white: '#fff',
-    black: '#333',
-    lightGrey: '#f8f8f8',
-    darkGrey: '#eeeeee',
+    black: '#212121',
+    lightGrey: '#e5e4e4',
+    darkGrey: '#757575',
     
     mainFont: 'iransans',
     mainFontFa: 'iransansfanum',
     
-    primaryColor: '#00446A',
-    secondaryColor: '#EF4044',
+    primaryColor: '#6200ee',
+    secondaryColor: '#3700b3',
 
     successColor: '#43a047',
     infoColor: '#1976d2',
